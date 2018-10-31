@@ -1,0 +1,9 @@
+|ledvhdl
+x => f.IN0
+x => g.IN0
+y => f.IN1
+y => g.IN1
+f << f.DB_MAX_OUTPUT_PORT_TYPE
+g << g.DB_MAX_OUTPUT_PORT_TYPE
+
+

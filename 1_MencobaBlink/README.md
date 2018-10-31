@@ -1,3 +1,7 @@
+# Verilog Test
+
+bagian ini menggunakna bahasa verilog (.v) bagian ke dua akan menggunakan bahasa vhdl, verilog dan vhdl memang berbeda dalam sintaksnya
+
 pin yang digunakan adalah 
 
 |variable| nama pin|keterangan|

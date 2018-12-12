@@ -26,3 +26,5 @@ wget -q -O /tmp/libpng12.deb http://mirrors.kernel.org/ubuntu/pool/main/libp/lib
 
 habis itu jalankan semoga berhasil
 
+download installer quartusnya [disini](http://download.altera.com/akdlm/software/acdsinst/18.1std/625/ib_tar/Quartus-lite-18.1.0.625-linux.tar)
+

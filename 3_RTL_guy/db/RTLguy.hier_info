@@ -1,0 +1,9 @@
+|RTLguy
+L => A2.IN0
+L => A1.IN0
+M => A2.IN1
+M => A1.IN1
+N => A1.IN1
+F3 << F3.DB_MAX_OUTPUT_PORT_TYPE
+
+

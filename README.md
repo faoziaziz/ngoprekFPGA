@@ -28,5 +28,5 @@ habis itu jalankan semoga berhasil
 
 download installer quartusnya [disini](http://download.altera.com/akdlm/software/acdsinst/18.1std/625/ib_tar/Quartus-lite-18.1.0.625-linux.tar)
 
-untuk dokumenya bisa di download di [sini](https://drive.google.com/file/d/0B29qKrGuvpGDcEx3QjVUNG9qRVE/view) 
+untuk dokumenya bisa di download di [sini](http://www.mediafire.com/file/wyhlxgfw3g3755p/A-C4E6E10_board.rar) 
 
